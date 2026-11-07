@@ -4,10 +4,6 @@
 <h1 align="center">Welcome to the Decade Dash!</h1>
 </div>
 
-## About The Project
-
-<img src="images/TitleScreen.png">
-
 This mod for SpongeBob SquarePants: Battle for Bikini Bottom adds 400 new spatulas to the game, totaling 500 spatulas.
 This includes new spatulas in existing areas, as well as new areas altogether.<br />
 
