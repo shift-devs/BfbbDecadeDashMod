@@ -1,15 +1,8 @@
 
-<br />
 <div align="center">
-  <a href="https://github.com/shift-devs/BfbbDecadeDashMod">
-    <img src="images/Logo.png" alt="Logo" width="100" height="100">
-  </a>
+<img src="images/Logo.png" alt="Logo" width="600">
 <h1 align="center">Welcome to the Decade Dash!</h1>
-
 </div>
-
-
-
 
 ## About The Project
 
@@ -38,8 +31,9 @@ And, of course, the three playable characters get new costumes! Enjoy playing as
 
 We hope you enjoy the mod! It was a labor of love, so please enjoy our hard work at long last.<br />
 
-Sincerely,
-TetraxZ and Sleepyhead08
+Sincerely,<br />
+TetraxZ and Sleepyhead08 :)
+
 
 ### Installation
 
