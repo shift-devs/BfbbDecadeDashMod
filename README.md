@@ -2,9 +2,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/shift-devs/BfbbDecadeDashMod">
-    <img src="images/Logo.png" alt="Logo" width="800" height="800">
+    <img src="images/Logo.png" alt="Logo" width="100" height="100">
   </a>
-<h3 align="center">Welcome to the Decade Dash!</h3>
+<h1 align="center">Welcome to the Decade Dash!</h1>
 
 </div>
 
@@ -16,28 +16,29 @@
 <img src="images/TitleScreen.png">
 
 This mod for SpongeBob SquarePants: Battle for Bikini Bottom adds 400 new spatulas to the game, totaling 500 spatulas.
-This includes new spatulas in existing areas, as well as new areas altogether.
+This includes new spatulas in existing areas, as well as new areas altogether.<br />
 
-Spatulas are tracked in the hub above the entrance to the corresponding level. Hub spatulas are above SpongeBob's door.
-<img src="images/SpatulaCount.png">
+Spatulas are tracked in the hub above the entrance to the corresponding level. Hub spatulas are above SpongeBob's door.<br />
+<img src="images/SpatulaCount.png" width="200">
 
-You can warp back to these individual level spatula counts at any time using the pause menu.
-<img src="images/SpatulaWarp.png">
+You can warp back to these individual level spatula counts at any time using the pause menu.<br />
+<img src="images/SpatulaWarp.png" width="200">
 
-Socks are also tracked in the pause screen as usual with updated counts.
-<img src="images/Socks.png">
+Socks are also tracked in the pause screen as usual with updated counts.<br />
+<img src="images/Socks.png" width="200">
 
 In addition to all the new spatulas, we have also added 15 CREO cards for you to find! After finding them, you may view the artwork in the robot viewer in the police station.
-(Each CREO card is associated with a spatula, so don't worry about having to search for them separately.)
-<img src="images/CreoCard.png">
+(Each CREO card is associated with a spatula, so don't worry about having to search for them separately.)<br />
 
-And, of course, the three playable characters get new costumes! Enjoy playing as The Quickster, The Elastic Waistband, and Miss Appear!
-<img src="images/Costumes.png">
+<img src="images/CreoCard.png" width="200">
 
-We hope you enjoy the mod! It was a labor of love, so please enjoy our hard work at long last.
+And, of course, the three playable characters get new costumes! Enjoy playing as The Quickster, The Elastic Waistband, and Miss Appear!<br />
+<img src="images/Costumes.png" width="200">
+
+We hope you enjoy the mod! It was a labor of love, so please enjoy our hard work at long last.<br />
 
 Sincerely,
-- TetraxZ and Sleepyhead08
+TetraxZ and Sleepyhead08
 
 ### Installation
 
@@ -64,4 +65,11 @@ If you are on GameCube:
 * [Blender](https://www.blender.org/)
 * [Heavy Iron Modding Tools](https://github.com/Redberd36/Heavy-Iron-Modding-Tool-Package-5.0.1)
 
+### Special Thanks
+* ColPun
+* wosawinda
+* estrangr
+* Sophia_1543
+* Shell
+* The Titans of the Tide Speedrunning Discord
 
