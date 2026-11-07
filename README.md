@@ -27,6 +27,8 @@ You can warp back to these individual level spatula counts at any time using the
 Socks are also tracked in the pause screen as usual with updated counts.<br />
 <img src="images/Socks.png" width="300">
 
+If you would like, we also have available [this tracker](https://docs.google.com/spreadsheets/d/1VpgPCoxyAG9j2f7czXRDyfUMownRdPRENgg4ej880R8/edit?usp=sharing) from the Twitch Plays iteration. Note that this is more in-depth, but might save you some time if you're going for 100%.
+
 In addition to all the new spatulas, we have also added 15 CREO cards for you to find! After finding them, you may view the artwork in the robot viewer in the police station.
 (Each CREO card is associated with a spatula, so don't worry about having to search for them separately.)<br />
 <img src="images/CreoCard.png" width="150">
@@ -48,7 +50,7 @@ If you are on Xbox:
 4. Place the provided modded hip/hop files into the extracted folder.
 5. If you are on emulator, use [extract-iso](https://github.com/xboxdev/extract-xiso) to pack the folder back into an iso file.
  ```sh
-  extract-xiso.exe -c XBOX_FOLDER
+  extract-xiso.exe -c <XBOX_FOLDER>
   ```
 
 If you are on GameCube:
