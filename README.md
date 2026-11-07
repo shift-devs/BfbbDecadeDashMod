@@ -33,22 +33,15 @@ TetraxZ and Sleepyhead08 :)
 
 ### Installation
 
-If you are on Xbox:
-1. Obtain a copy of the Xbox ROM of Battle for Bikini Bottom (not provided for legal reasons)
-2. Extract the ROM to a folder.
-3. Patch the default.xbe file with the provided XboxPatch.ips file using [this online patcher](https://www.ff6hacking.com/patcher/).
-4. Place the provided modded hip/hop files into the extracted folder.
-5. If you are on emulator, use [extract-iso](https://github.com/xboxdev/extract-xiso) to pack the folder back into an iso file.
- ```sh
-  extract-xiso.exe -c <XBOX_FOLDER>
-  ```
+This mod has both Xbox and GameCube versions. The installation process is the same for both.
 
-If you are on GameCube:
-1. Obtain a copy of the GameCube ROM of Battle for Bikini Bottom (not provided for legal reasons)
-2. Extract the ROM to a folder.
-3. Patch the main.dol file with the provided GameCubePatch.ips file using [this online patcher](https://www.ff6hacking.com/patcher/).
-4. Place the provided modded hip/hop files into the extracted folder.
-5. If you are on emulator, add the sys folder to your game folder paths.
+1. Obtain a copy of Battle for Bikini Bottom .iso for your preferred platform (not provided for legal reasons).
+2. Download the mod zip for your chosen platform from the Releases tab.
+2. Download and extract the Heavy mod Manager from the Releases tab. This is a branch of the original [Heavy Mod Manager](https://github.com/igorseabra4/HeavyModManager/releases) with [multi-platform support](https://github.com/igorseabra4/HeavyModManager/tree/multi-platform-support).
+3. Run HMM and Create a Backup of BfBB for your platform of choice. (Choose your platform before selecting your .iso)
+4. Click Add Mods and select the mod zip you downloaded in Step 2.
+5. From here, you may use HMM to rebuild a modded .iso or launch the modded game directly in emulator.
+
 
 ### Built With
 
