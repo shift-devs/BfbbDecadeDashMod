@@ -35,12 +35,12 @@ TetraxZ and Sleepyhead08 :)
 
 This mod has both Xbox and GameCube versions. The installation process is the same for both.
 
-1. Obtain a copy of Battle for Bikini Bottom .iso for your preferred platform (not provided for legal reasons).
-2. Download the mod zip for your chosen platform from the Releases tab.
-2. Download and extract the Heavy mod Manager from the Releases tab. This is a branch of the original [Heavy Mod Manager](https://github.com/igorseabra4/HeavyModManager/releases) with [multi-platform support](https://github.com/igorseabra4/HeavyModManager/tree/multi-platform-support).
-3. Run HMM and Create a Backup of BfBB for your platform of choice. (Choose your platform before selecting your .iso)
-4. Click Add Mods and select the mod zip you downloaded in Step 2.
-5. From here, you may use HMM to rebuild a modded .iso or launch the modded game directly in emulator.
+1. Obtain a copy of the Battle for Bikini Bottom .iso for your preferred platform (not provided for legal reasons).
+2. Download the mod .zip for your chosen platform from the Releases tab. Do not extract it.
+2. Download and extract the Heavy Mod Manager from the Releases tab. This is a branch of the original [Heavy Mod Manager](https://github.com/igorseabra4/HeavyModManager/releases) with [multi-platform support](https://github.com/igorseabra4/HeavyModManager/tree/multi-platform-support).
+3. Run HMM and Create a Backup of BfBB for your platform of choice. (Choose your platform, then select your .iso.)
+4. Click Add Mods and select the mod .zip you downloaded in Step 2.
+5. From here, you may use HMM to build a modded .iso or launch the modded game directly in emulator.
 
 
 ### Built With
