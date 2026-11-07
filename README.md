@@ -19,21 +19,20 @@ This mod for SpongeBob SquarePants: Battle for Bikini Bottom adds 400 new spatul
 This includes new spatulas in existing areas, as well as new areas altogether.<br />
 
 Spatulas are tracked in the hub above the entrance to the corresponding level. Hub spatulas are above SpongeBob's door.<br />
-<img src="images/SpatulaCount.png" width="200">
+<img src="images/SpatulaCount.png" width="250">
 
 You can warp back to these individual level spatula counts at any time using the pause menu.<br />
-<img src="images/SpatulaWarp.png" width="200">
+<img src="images/SpatulaWarp.png" width="400">
 
 Socks are also tracked in the pause screen as usual with updated counts.<br />
-<img src="images/Socks.png" width="200">
+<img src="images/Socks.png" width="300">
 
 In addition to all the new spatulas, we have also added 15 CREO cards for you to find! After finding them, you may view the artwork in the robot viewer in the police station.
 (Each CREO card is associated with a spatula, so don't worry about having to search for them separately.)<br />
-
-<img src="images/CreoCard.png" width="200">
+<img src="images/CreoCard.png" width="150">
 
 And, of course, the three playable characters get new costumes! Enjoy playing as The Quickster, The Elastic Waistband, and Miss Appear!<br />
-<img src="images/Costumes.png" width="200">
+<img src="images/Costumes.png" width="500">
 
 We hope you enjoy the mod! It was a labor of love, so please enjoy our hard work at long last.<br />
 
