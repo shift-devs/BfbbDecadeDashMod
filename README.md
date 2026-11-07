@@ -42,6 +42,8 @@ This mod has both Xbox and GameCube versions. The installation process is the sa
 4. Click Add Mods and select the mod .zip you downloaded in Step 2.
 5. From here, you may use HMM to build a modded .iso or launch the modded game directly in emulator.
 
+Note that due to the nature of modding, we cannot distribute the files of the original game. The mod .zips are merge files that HMM will merge into your provided game files.
+These merge files as well as the patches included in the mods are available in the repository code. (Please do not use these to install the game, as some were too big to upload. The .zips contain everything you need.)
 
 ### Built With
 
