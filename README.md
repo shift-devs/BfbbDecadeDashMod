@@ -45,6 +45,8 @@ This mod has both Xbox and GameCube versions. The installation process is the sa
 Note that due to the nature of modding, we cannot distribute the files of the original game. The mod .zips are merge files that HMM will merge into your provided game files.
 These merge files as well as the patches included in the mods are available in the repository code. (Please do not use these to install the game, as some were too big to upload. The .zips contain everything you need.)
 
+If needed there is a more [in-depth tutorial of Heavy Mod Manager](https://heavyironmodding.org/wiki/Heavy_Mod_Manager).
+
 ### Built With
 
 * [IndustrialPark](https://github.com/igorseabra4/IndustrialPark)
